@@ -1,3 +1,6 @@
+<p align="center"><a href="#"><img style="margin-left:27%" width="46%" align="center" height="auto" src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" height="175px"/></a></p>
+
+
 # Hi there, Abhishek Katkar 👋
 
 ## I'm a Developer, and Teacher!!
