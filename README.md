@@ -47,8 +47,6 @@
 </p>
 
 <br />
-<br />
-
 ---
 <p align="center">
     <a href="https://github.com/abhikatkar/github-readme-streak-stats">
@@ -56,14 +54,17 @@
     </a>
 </p>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhikatkar&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+## 📊 My Github Stats
 
-</details>
+  <br/>
+    <a href="https://github.com/abhikatkar/github-readme-stats"><img alt="Aakash Naykude's Github Stats" style="width:57%" src="https://github-readme-stats.vercel.app/api?username=abhikatkar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/abhikatkar/github-readme-stats"><img alt="Aakash Naykude's Top Languages" style="width:42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhikatkar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[portfolio]: https://linkedin.com/in/codeSTACKr
+
+<br/>
+
+
+
+
+
