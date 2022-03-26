@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.linkedin.com/in/abhishek-katkar/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://abhishek-katkar-portfolio.vercel.app/)**
 
 - 📫 How to reach me **katkarabhi91@gmail.com**
 
